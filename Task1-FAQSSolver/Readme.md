@@ -22,27 +22,7 @@ A lightweight, offline-capable FAQ chatbot built with **Flask** and **TF-IDF + C
 ---
 
 ## 📸 Preview
-
-```
-┌─────────────────────────────────────────┐
-│  🤖  FAQ Chatbot          NLP powered  ● │
-├─────────────────────────────────────────┤
-│                                         │
-│  🤖  Hey! 👋 I'm your FAQ assistant.    │
-│       Ask me anything about Python…     │
-│                                         │
-│              What is Flask? 🧑          │
-│                                         │
-│  🤖  Flask is a lightweight Python      │
-│       web framework…                    │
-│       Matched: "What is Flask?" · 100%  │
-│                                         │
-├─────────────────────────────────────────┤
-│  [What is pip?] [What is Git?] [ML?]…  │
-├─────────────────────────────────────────┤
-│  Type your question…            ➤      │
-└─────────────────────────────────────────┘
-```
+<img width="1197" height="881" alt="image" src="https://github.com/user-attachments/assets/18a70b88-a429-4861-9851-eb559db4a6ed" />
 
 ---
 
